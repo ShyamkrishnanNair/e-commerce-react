@@ -3,7 +3,7 @@ This React project features product showcasing, shopping cart administration, an
 
 ## Academic Context
 
-This project holds special significance as it was a key milestone during my journey through the Full Stack Web Development course at Suven Consultants & Technology Pvt. Ltd, Mumbai. Undertaking this project marked a pivotal moment where theoretical concepts metamorphosed into tangible skills and expertise. Under the mentorship of seasoned professionals, I navigated the complexities of frontend and backend development, mastering tools like React, Redux, Strapi, and more.  I delved deep into various technologies, frameworks, and methodologies that shape the digital landscape.
+This project holds special significance as it was a key milestone during my journey through the Full Stack Web Development course at Suven Consultants and Technology Pvt. Ltd., Mumbai. Undertaking this project marked a pivotal moment where theoretical concepts metamorphosed into tangible skills and expertise. Under the mentorship of seasoned professionals, I navigated the complexities of frontend and backend development, mastering tools like React, Redux, Strapi, and more.  I delved deep into various technologies, frameworks, and methodologies that shape the digital landscape.
 
 
 ## Features
