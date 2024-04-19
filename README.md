@@ -1,5 +1,5 @@
 # E-Commerce App using React.js
-This project features product showcasing, shopping cart administration, and secure payment processing, all powered by a backend supported by Strapi.
+This React project features product showcasing, shopping cart administration, and secure payment processing, all powered by a backend supported by Strapi.
 
 ## Academic Context
 
