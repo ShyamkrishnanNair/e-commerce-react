@@ -3,7 +3,8 @@ This project features product showcasing, shopping cart administration, and secu
 
 ## Academic Context
 
-This project was part of my academic projects during my web development course at Suven Consultants. It provided an opportunity to apply the concepts and skills learned during the course to a real-world project scenario, helping to solidify my understanding of web development principles and practices.
+This project holds special significance as it was a key milestone during my journey through the Full Stack Web Development course at Suven Consultants & Technology Pvt. Ltd, Mumbai. Undertaking this project marked a pivotal moment where theoretical concepts metamorphosed into tangible skills and expertise. Under the mentorship of seasoned professionals, I navigated the complexities of frontend and backend development, mastering tools like React, Redux, Strapi, and more.  I delved deep into various technologies, frameworks, and methodologies that shape the digital landscape.
+
 
 ## Features
 
